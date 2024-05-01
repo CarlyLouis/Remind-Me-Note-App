@@ -19,9 +19,9 @@ A brief description of what this project does and who it's for
  
 ## Screenshots
 
-![App Screenshot](C:/Users/Carly%20LOUIS/Desktop/Screenshot_1.jpg)
+![App Screenshot](Screenshot_1.jpg)
 
-![App Screenshot](C:/Users/Carly%20LOUIS/Desktop/Screenshot_1.jpg)
+![App Screenshot](Screenshot_2.jpg)
 
-![App Screenshot](C:/Users/Carly%20LOUIS/Desktop/Screenshot_1.jpg)
+![App Screenshot](Screenshot_3.jpg)
 
