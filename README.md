@@ -5,7 +5,7 @@ A brief description of what this project does and who it's for
 
 "Remind_Me"  is a basic note taking app that naturally allows to save some notes, tasks, or some information that might be needed later. 
 
-Libraries, frameworks, languages:
+# Libraries, frameworks, languages:
 
     • Kotlin (Entirely written in Kotlin)
     • Jetpack Compose (To setup the user interface) 
@@ -19,10 +19,9 @@ Libraries, frameworks, languages:
  
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/Carly%20LOUIS/Desktop/Screenshot_1.jpg)
+![App Screenshot](C:/Users/Carly%20LOUIS/Desktop/Screenshot_1.jpg)
 
-![App Screenshot](file:///C:/Users/Carly%20LOUIS/Desktop/Screenshot_2.jpg)
+![App Screenshot](C:/Users/Carly%20LOUIS/Desktop/Screenshot_1.jpg)
 
-![App Screenshot](file:///C:/Users/Carly%20LOUIS/Desktop/Screenshot_3.jpg)
-
+![App Screenshot](C:/Users/Carly%20LOUIS/Desktop/Screenshot_1.jpg)
 
